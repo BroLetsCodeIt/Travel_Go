@@ -14,11 +14,22 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.2
+  url_launcher: ^6.0.20 
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/eiffel_tower.jpg
+    - assets/images/great_wall_of_china.jpg
+    - assets/images/machu_picchu.jpg
+    - assets/images/statue_of_liberty.jpg
+    - assets/images/taj_mahal.jpg
+    - assets/images/pyramids_of_giza.jpg
+    - assets/images/petra.jpg
+    - assets/images/mount_everest.jpg
+    - assets/images/colosseum.jpg
+    - assets/images/sydney_opera_house.jpg
+    
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
